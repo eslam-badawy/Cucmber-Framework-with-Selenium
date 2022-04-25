@@ -7,3 +7,4 @@ This is a simple Cucumber Framework with Selenium which contains the below struc
 •	Page object model
 •	Hooks class
 •	Pretty report plugin
+
